@@ -23,6 +23,13 @@ body {
   border-radius: 10px;
 }
 
+.question {
+  text-align: center;
+  padding-bottom: 2rem;
+  font-size: 2rem;
+  color: rgb(27, 27, 157);
+}
+
 input {
   border: none;
   outline: none;
